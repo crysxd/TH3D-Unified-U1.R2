@@ -1,0 +1,12 @@
+- Clone git@github.com:crysxd/TH3D-Unified-U1.R2 / https://github.com/crysxd/TH3D-Unified-U1.R2
+- Open .ino file
+- Open Arduino IDE preferences
+- Past "https://raw.githubusercontent.com/Lauszus/Sanguino/master/package_lauszus_sanguino_index.json" into "Additional Board Manager URLs"
+- Go to Tools > Board > Boards Manager and search sanguino
+- Hit Install
+- Select Saguino in Tools > Board menu
+- Select "ATmega 1284 or ATmega 1284p (16 MHz)" in Tools > Processor
+- Click "Verify" (checkmark symbol in toolbar)
+- Connect mainboard 
+- Select com port in Tools > Port
+- Click "Upload" (Arrow symbol ion toolbar)
