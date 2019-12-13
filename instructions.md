@@ -6,6 +6,9 @@
 - Hit Install
 - Select Saguino in Tools > Board menu
 - Select "ATmega 1284 or ATmega 1284p (16 MHz)" in Tools > Processor
+- Select Sketch > Include Library >  Manage Libraries
+- Search "u8glib" and install "U8glib by oliver"
+- Click close
 - Click "Verify" (checkmark symbol in toolbar)
 - Connect mainboard 
 - Select com port in Tools > Port
